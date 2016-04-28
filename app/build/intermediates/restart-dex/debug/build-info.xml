@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="22"
+    density="xhdpi"
+    format="7"
+    timestamp="25252338275499"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="837" />
+    <task
+        name="instant-run-dex"
+        duration="681" />
+    <task
+        name="instant-run-transform"
+        duration="26" />
+    <task
+        name="verifier"
+        duration="9" />
+
+    <artifact
+        location="/Users/kaylab/Vuforia/vuforia-sdk-android-5-5-9/samples/VuforiaSamples-5-5-9/app/build/intermediates/reload-dex/debug/classes.dex"
+        type="RELOAD_DEX" />
+
+    <build timestamp="24289576571650" >
+        <artifact
+            location="/Users/kaylab/Vuforia/vuforia-sdk-android-5-5-9/samples/VuforiaSamples-5-5-9/app/build/outputs/apk/VuforiaSamples-5-5-9-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="25252338275499"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/kaylab/Vuforia/vuforia-sdk-android-5-5-9/samples/VuforiaSamples-5-5-9/app/build/intermediates/reload-dex/debug/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>

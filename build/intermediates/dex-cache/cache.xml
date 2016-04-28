@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/kaylab/Vuforia/vuforia-sdk-android-5-5-9/samples/VuforiaSamples-5-5-9/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="9f01a8cb6d0d3605bb468f7b7f7566546701bd58">
+        <dex dex="/Users/kaylab/Vuforia/vuforia-sdk-android-5-5-9/samples/VuforiaSamples-5-5-9/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2b0f394eabf04a9be904fa48f8481aee81ebf645/classes.dex" />
+    </item>
+    <item
+        jar="/Users/kaylab/Vuforia/vuforia-sdk-android-5-5-9/build/java/vuforia/Vuforia.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="f5b9729417d9e86d9bba6068e4a84f05ace53fd4">
+        <dex dex="/Users/kaylab/Vuforia/vuforia-sdk-android-5-5-9/samples/VuforiaSamples-5-5-9/app/build/intermediates/transforms/dex/debug/folders/1000/2/Vuforia_9eb13d7525b03eac6d57f44fc24ac19c189ed3b1/classes.dex" />
+    </item>
+    <item
+        jar="/Users/kaylab/Vuforia/vuforia-sdk-android-5-5-9/samples/VuforiaSamples-5-5-9/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="b616bea9dd423721a15a7ee33ceaf2954346b89d">
+        <dex dex="/Users/kaylab/Vuforia/vuforia-sdk-android-5-5-9/samples/VuforiaSamples-5-5-9/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_0c6875cea8cab8917b1dc886892844e68191ecef/classes.dex" />
+    </item>
+
+</items>

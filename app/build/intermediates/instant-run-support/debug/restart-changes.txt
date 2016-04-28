@@ -1,0 +1,1 @@
+CHANGED,/Users/kaylab/Vuforia/vuforia-sdk-android-5-5-9/samples/VuforiaSamples-5-5-9/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/vuforia/samples/SampleApplication/SampleApplicationSession$InitVuforiaTask.class
